@@ -1,2 +1,2 @@
 # SpaceShooter
-My first game I made in python as a final project for university course.
+My first game I made in python as a final project for university course. Use mouse right-click to change weapon to blaster, then you can shoot enemies while pressing mouse left-click. You can also dash with SHIFT. Try to stay alive as long as you can. Good luck :)
