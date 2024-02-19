@@ -1,2 +1,2 @@
 # SpaceShooter
-My first game I made as a final project.
+My first game I made in python as a final project.
